@@ -1,0 +1,41 @@
+
+["[-----AutoMessage Configuration-----]"]
+	# Configuration in this file is for *SERVER-SIDE* only (i.e. "Thank you for joining our server!" being sent only once to the client, and never again)
+	# !#! SET VALUES TO 0 OR "" IF UNUSED / NO LIMIT. !#! 
+	# Color Name      Chat Color Codes
+	# Dark Red        §4
+	# Red             §c
+	# Gold            §6
+	# Yellow          §e
+	# Dark Green      §2
+	# Green           §a
+	# Aqua            §b
+	# Dark Aqua       §3
+	# Dark Blue       §1
+	# Blue            §9
+	# Light Purple    §d
+	# Dark Purple     §5
+	# White           §f
+	# Gray            §7
+	# Dark Gray       §8
+	# Black           §0
+	# Reset           §r
+	##
+	# MESSAGES = ["§2Thank you very much for downloading More Decorations§f", "§cDon't worry, this message will not appear again.§f"]
+	MESSAGES = []
+	##
+	# LINKS = ["https://www.google.com", "https://www.yahoo.com"]
+	LINKS = []
+	##
+	# Intervals should be spaced out if possible, to avoid repeat messages from file writing lag 
+	# INTERVALS = [5, 10]
+	INTERVALS = []
+	##
+	# LIMITS = [3, 0]
+	LIMITS = []
+	##
+	# HARD LIMITS = [1, 1]
+	HARD_LIMITS = []
+	##
+	SERVER_ONLY = false
+
